@@ -1,5 +1,6 @@
 # HTTP, AJAX, WEBSOCKET 
 > [참고자료](https://medium.com/@chullino/http%EC%97%90%EC%84%9C%EB%B6%80%ED%84%B0-websocket%EA%B9%8C%EC%A7%80-94df91988788)
+
 ## TL; DR
 - HTTP는 통신 제약이 있는 약속입니다.
 - AJAX로 HTTP의 통신 제약으로부터 조금 벗어날 수 있었습니다.
